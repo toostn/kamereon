@@ -16,8 +16,8 @@ export class Client {
 
         this.settings = {
             'EU': {
-                'client_id': 'a-ncb-prod-android',
-                'client_secret': '0sAcrtwvwEXXZp5nzQhPexSRhxUVKa0d76F4uqDvxvvKFHXpo4myoJwUuV4vuNqC',
+                'client_id': 'a-ncb-nc-android-prod',
+                'client_secret': '6GKIax7fGT5yPHuNmWNVOc4q5POBw1WRSW39ubRA8WPBmQ7MOxhm75EsmKMKENem',
                 'scope': 'openid profile vehicles',
                 'auth_base_url': 'https://prod.eu2.auth.kamereon.org/kauth/',
                 'realm': 'a-ncb-prod',
